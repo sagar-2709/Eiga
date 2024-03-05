@@ -1,16 +1,14 @@
 # Eiga
-
-
-# Movie website
 ![Eiga](https://github.com/sagar-2709/Eiga/assets/97290356/2e864b4d-b7fd-4d8e-b6fe-7ee8d06ab886)
 
-![eiga black back]() <!-- If you have a project logo, include it here -->
+# Movie website
+
 
 Welcome to Eiga, your go-to platform for movie enthusiasts to discover, download, and keep track of their favorite movies .
 
 [Demo](https://drive.google.com/file/d/1nZit1OhKHVJarB59sVGRSBARmbuPTFkI/view?usp=sharing)
 
- #Future aspect
+#Future aspect
 In our future plans, our primary focus is on categorizing movies and introducing a customized items shop, enhancing the pathway for both merchants and users. This shop will facilitate the addition of reviews and provide users with the option to personalize their movie lists by adding or removing items according to their preferences. Additionally, we aim to transition this code to the MERN (MongoDB, Express.js, React.js, Node.js) stack to leverage its capabilities and streamline development. With MERN, we anticipate improved scalability, efficiency, and flexibility, enabling us to realize our vision more effectively.
 
 ## Table of Contents
