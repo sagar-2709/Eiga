@@ -8,7 +8,7 @@ Welcome to Eiga, your go-to platform for movie enthusiasts to discover, download
 
 [Demo](https://drive.google.com/file/d/1nZit1OhKHVJarB59sVGRSBARmbuPTFkI/view?usp=sharing)
 
-#Future aspect
+# Future aspect
 In our future plans, our primary focus is on categorizing movies and introducing a customized items shop, enhancing the pathway for both merchants and users. This shop will facilitate the addition of reviews and provide users with the option to personalize their movie lists by adding or removing items according to their preferences. Additionally, we aim to transition this code to the MERN (MongoDB, Express.js, React.js, Node.js) stack to leverage its capabilities and streamline development. With MERN, we anticipate improved scalability, efficiency, and flexibility, enabling us to realize our vision more effectively.
 
 ## Table of Contents
